@@ -1537,5 +1537,3 @@ cargo test --workspace
  ## License
 
  This project is intended to be released under the Apache License 2.0.
-
- See LICENSE for details.
